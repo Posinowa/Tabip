@@ -1,0 +1,2 @@
+/home/dev/Documents/projects/tabip/tabip/android/app/.cxx/Debug/3z6v2uy5/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/dev/Documents/projects/tabip/tabip/android/app/.cxx/Debug/3z6v2uy5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
