@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461386918195",
+    "project_id": "tabip-e3f13",
+    "storage_bucket": "tabip-e3f13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461386918195:android:c824284ee0e06900887646",
+        "android_client_info": {
+          "package_name": "com.example.tabip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA32MW886DkVAviazxRdCVj-MncwrFEGeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
